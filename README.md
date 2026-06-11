@@ -64,9 +64,8 @@ Here are some ideas to get you started:
 </p>
 
 ## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shuklavaibhav30/shuklavaibhav30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shuklavaibhav30/shuklavaibhav30/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ## Connect With Me
