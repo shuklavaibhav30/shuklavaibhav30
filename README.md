@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Vaibhav Shukla 👋
+
+🚀 MERN Stack Developer
+
+💻 DSA | Web Development | Full Stack Development
+
+⚡ Git & GitHub Enthusiast
+
+🎯 Building scalable web applications and solving real-world problems through code.
+
+## Connect With Me
+
+🔗 LinkedIn
+https://www.linkedin.com/in/vaibhav-kumar-shukla-445b3a300/
+
+📧 Email
+[imvksofficial@gmail.com](mailto:imvksofficial@gmail.com)
+
+
 
 <!--
 **shuklavaibhav30/shuklavaibhav30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
