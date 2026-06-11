@@ -47,15 +47,21 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=shuklavaibhav30&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shuklavaibhav30&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shuklavaibhav30&theme=tokyonight)
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shuklavaibhav30&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shuklavaibhav30&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklavaibhav30&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🏆 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/imvaibhavshukla?theme=dark&font=Nunito)
+<p align="center">
+  <img width="100%" src="https://leetcard.jacoblin.cool/imvaibhavshukla?theme=dark&font=Karma&ext=contest" />
+</p>
 
 ## Connect With Me
 
