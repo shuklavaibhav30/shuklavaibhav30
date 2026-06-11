@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="./vaibhav.png" alt="Vaibhav Banner"/>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Vaibhav+Kumar +Shukla;MERN+Stack+Developer;DSA+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Vaibhav+Kumar+Shukla;MERN+Stack+Developer;DSA+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
 
 ## 🚀 About Me
@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 * 🧠 DSA & Problem Solving Enthusiast
 * 🌐 Full Stack Web Developer
 * 🔨 Building projects with React, Node.js, Express & MongoDB
-* 🚀 Currently working on VibeTube
 * 📚 Learning Backend Development & System Design
 
 ## 🚀 Tech Stack
@@ -56,7 +55,7 @@ Here are some ideas to get you started:
 
 ## 🏆 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/iamvaibhavshukla?theme=dark&font=Nunito)
+![LeetCode Stats](https://leetcard.jacoblin.cool/imvaibhavshukla?theme=dark&font=Nunito)
 
 ## Connect With Me
 
