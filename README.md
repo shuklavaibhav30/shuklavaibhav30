@@ -63,6 +63,12 @@ Here are some ideas to get you started:
   <img width="100%" src="https://leetcard.jacoblin.cool/imvaibhavshukla?theme=dark&font=Karma&ext=contest" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shuklavaibhav30/shuklavaibhav30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ## Connect With Me
 
 🔗 LinkedIn
